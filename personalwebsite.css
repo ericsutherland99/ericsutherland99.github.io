@@ -128,3 +128,17 @@ h3
   left: 10%;
   top: 30px;
 }
+#hockey img
+{
+  position: relative; 
+  width: 200px;
+  height: auto;
+}
+#golf img
+{
+  float: right;
+  margin-right: 10%;
+  position: relative; right: 600px; top: -270px;
+  width: 25%;
+  height: auto;
+}
