@@ -136,9 +136,45 @@ h3
 }
 #golf img
 {
-  float: right;
-  margin-right: 10%;
-  position: relative; right: 600px; top: -270px;
+
+  position: relative; 
   width: 25%;
   height: auto;
+}
+#hockey {
+  width: 50%;
+  height: 350px;
+  float: right;
+  background-color: rgb(255,253,208);
+  margin: 0;
+}
+#golf {
+  width: 50%;
+  height: 350px;
+  float: right;
+  background-color: rgb(255,253,208);
+  margin: 0;
+}
+#aboutme p
+{
+  width: 100%;
+  color: #f6f6f6; font-family: 'Orienta', sans-serif; font-size: 16px; line-height: 24px; margin: 0 0 24px; text-align: center;
+}
+#golf img
+{
+  width: 70%;
+  height: 90%;
+  top: 5%;
+  bottom: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+#hockey img
+{
+  height: 90%;
+  top: 5%;
+  bottom: 5%;
+  width: 40%;
+  left: 30%;
+  right: 30%;
 }
