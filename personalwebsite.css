@@ -113,6 +113,7 @@ h3
   margin-right: 2.5%;
   margin-left: 2.5%;
   margin-bottom: 7.5%;
+  object-fit: contain;
 }
 #box4 {
   width: 25%;
