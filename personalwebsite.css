@@ -68,7 +68,7 @@ h3
 #box1 img
 {
   position: relative;
-  top:20px;
+  top:40px;
 }
 #box2 div ul
 {
@@ -79,4 +79,29 @@ h3
   position: relative;
   top:60px;
   width: 95%;
+  right: 2.5%;
+  left: 2.5%;
+}
+#box3 {
+  width: 25%;
+  height: 500px;
+  float: left;
+  background-color: rgb(255,253,208);
+  margin: 0;
+}
+#box3 div
+{
+  margin: 12px 12px 2px;
+}
+#box3 div ul
+{
+  list-style-type: circle;
+}
+#box3 img
+{
+  position: relative;
+  top:30px;
+  width: 95%;
+  right: 2.5%;
+  left: 2.5%;
 }
