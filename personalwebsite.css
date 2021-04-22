@@ -178,3 +178,10 @@ h3
   left: 30%;
   right: 30%;
 }
+#headshot
+{
+  float: right;
+  width: 45%;
+  height: auto;
+  position: relative; top: -200px;
+}
