@@ -44,12 +44,14 @@ h3
   height: 500px;
   float: left;
   background-color:rgb(220, 20, 60);
+  margin: 0;
 }
 #box1 {
   width: 25%;
   height: 500px;
   float: left;
   background-color: rgb(255,253,208);
+  margin: 0;
 }
 #box1 div
 {
@@ -62,4 +64,19 @@ h3
 #box1 div ul
 {
   list-style-type: circle;
+}
+#box1 img
+{
+  position: relative;
+  top:20px;
+}
+#box2 div ul
+{
+  list-style-type: circle;
+}
+#box2 img
+{
+  position: relative;
+  top:60px;
+  width: 95%;
 }
