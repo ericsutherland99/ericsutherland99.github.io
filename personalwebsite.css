@@ -105,3 +105,26 @@ h3
   right: 2.5%;
   left: 2.5%;
 }
+#box4 {
+  width: 25%;
+  height: 500px;
+  float: left;
+  background-color:rgb(220, 20, 60);
+  margin: 0;
+}
+#box4 div
+{
+  margin: 12px 12px 2px;
+}
+#box4 div ul
+{
+  list-style-type: circle;
+}
+#box4 img
+{
+  position: relative;
+  width: 80%;
+  right: 10%;
+  left: 10%;
+  top: 30px;
+}
