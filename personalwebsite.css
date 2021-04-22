@@ -108,7 +108,7 @@ h3
 {
   position: relative;
   margin-top:7.5%;
-  width: 95%;
+  max-width: 95%;
   height: auto;
   margin-right: 2.5%;
   margin-left: 2.5%;
