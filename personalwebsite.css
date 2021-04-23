@@ -70,10 +70,10 @@ h3
   position: relative;
   margin-top: 15%;
   width: 95%;
-  height: auto;
+  height: 70%;
   margin-right: 2.5%;
   margin-left: 2.5%;
-  margin-bottom: auto;
+  margin-bottom: 15%;
 }
 #box2 div ul
 {
@@ -84,10 +84,10 @@ h3
   position: relative;
   margin-top:15%;
   width: 95%;
-  height: auto;
+  height: 70%;
   margin-right: 2.5%;
   margin-left: 2.5%;
-  margin-bottom: auto;
+  margin-bottom: 15%;
 }
 #box3 {
   width: 25%;
@@ -109,11 +109,10 @@ h3
   position: relative;
   margin-top:7.5%;
   max-width: 95%;
-  height: auto;
+  height: 85%;
   margin-right: 2.5%;
   margin-left: 2.5%;
-  margin-bottom: auto;
-  object-fit: contain;
+  margin-bottom: 7.5%;
 }
 #box4 {
   width: 25%;
@@ -134,11 +133,11 @@ h3
 {
   position: relative;
   width: 80%;
-  height: auto;
+  height: 85%;
   margin-right: 10%;
   margin-left: 10%;
   margin-top: 7.5%;
-  margin-bottom: 15px;
+  margin-bottom: 7.5%;
 }
 #hockey img
 {
